@@ -1,0 +1,76 @@
+.first-section{
+   background: rgb(255, 214, 221);
+   text-align: center;
+}
+
+.second-section{
+   background-color: rgb(209, 185, 155);
+   text-align: center;
+}
+
+.third-section{
+   background-color: rgb(231, 231, 231);
+   text-align: center;
+}
+
+.fourth-section{
+   background-color: rgb(255, 214, 221);
+   text-align: center;
+}
+
+.fifth-section{
+   background-color: rgb(209, 185, 155);
+   text-align: center;
+}
+
+.sixth-section{
+   background-color: rgb(231, 231, 231);
+   text-align: center;
+}
+
+.welcome-line{
+   text-align: center;
+   padding: 5px;
+   border: 3px solid gold;
+   background-color: rgb(238, 235, 218);
+}
+
+.step-1{
+   text-align: center;
+}
+
+.step-2{
+   text-align: center;
+}
+
+.step-3{
+   text-align: center;
+}
+
+.v{
+   color: gray;
+}
+
+.c{
+   color: brown;
+}
+
+.p{
+   color: pink
+}
+
+.company-f{
+   color: gray;
+}
+
+.company-y{
+   color: brown;
+}
+
+.company-c{
+   color: pink;
+}
+
+img{
+   border: 3px solid gold;
+}
